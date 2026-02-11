@@ -46,7 +46,7 @@ The system follows an **Orchestrator-Worker** pattern:
 3.  **Configure API Key**
     * Open `main.py`.
     * Find the line: `os.environ["GOOGLE_API_KEY"] = "your_api_key"`.
-    * Replace `YOUR_API_KEY_HERE` with your actual Google Gemini API key.
+    * Replace `your_api_key` with your actual Google Gemini API key.
 
 4.  **Run the System**
     ```bash
