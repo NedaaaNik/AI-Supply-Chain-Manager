@@ -1,0 +1,4 @@
+pandas
+google-genai
+google-adk
+nest_asyncio
